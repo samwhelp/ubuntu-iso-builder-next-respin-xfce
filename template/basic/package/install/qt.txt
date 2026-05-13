@@ -43,8 +43,6 @@ libqt6svg6
 
 
 qt6-style-kvantum
-qt6-style-kvantum-themes
-qt6-style-kvantum-l10n
 
 
 
